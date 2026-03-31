@@ -71,8 +71,11 @@ Economics student with hands-on experience in fintech product development, equit
 ---
 
 ## 🏆 Honors & Awards
-- Chancellor's Award · SBS & Helen Whitter Scholarships · Dean's List
-- GPA: 3.7/4.0 · Commonwealth Honors College
+- Chancellor's Award- $48,000
+- College of Social and Behavioural Sciences- $2,500 and $1,500
+- Helen Whitter Scholarships-$400 2023, 2024
+- Dean's List- Fall 2022, 2023, 2024, Spring 2024,2025
+- GPA: 3.7/4.0 
 
 ---
 
