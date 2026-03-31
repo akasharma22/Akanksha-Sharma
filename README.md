@@ -2,7 +2,7 @@
 
 **Managerial Economics @ UMass Amherst · Fintech & Data Enthusiast**
 
-Economics student with hands-on experience in fintech product development, equity research, and data-driven finance. I love turning complex data into actionable insights — whether that's stress-testing IMF datasets on a Bloomberg Terminal or building regression models in RStudio.
+Managerial Economics student with hands-on experience in fintech product development, equity research, and data-driven finance. I love turning complex data into actionable insights — whether that's stress-testing IMF datasets on a Bloomberg Terminal or building regression models in RStudio.
 
 📍 Amherst, MA | 📧 akasharma@umass.edu | 🔗 [LinkedIn](https://linkedin.com/in/akasharma)
 
