@@ -83,6 +83,4 @@ Managerial Economics student with hands-on experience in fintech product develop
 - Bloomberg Market Concepts
 - Charles River Investment Management Solutions — Manager Workbench
 
----
 
-*"Turning data into decisions."*
